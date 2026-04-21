@@ -47,7 +47,10 @@ Modelo de clasificación para predecir clientes en riesgo de cancelación.
 ---
 
 ## 📈 Dashboard
-Visualización en Power BI con métricas clave del negocio.
+
+![Dashboard de Churn](PowerBi/dashboard_churn.jpeg)
+
+Visualización en Power BI con métricas clave del negocio como churn rate, ingresos perdidos y segmentación de clientes.
 
 ---
 
