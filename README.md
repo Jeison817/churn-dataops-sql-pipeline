@@ -55,4 +55,5 @@ Visualización en Power BI con métricas clave del negocio como churn rate, ingr
 ---
 
 ## 👨‍💻 Autor
+Jeison Josimar Contreras Meza
 Proyecto de práctica DataOps + SQL + ML
